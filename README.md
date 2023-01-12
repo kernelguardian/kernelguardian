@@ -11,7 +11,7 @@
 </a>
 
   
-<!--  Update badge count here -->
+
 
 <br />
 
