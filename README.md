@@ -54,4 +54,4 @@ hi, i'm [Asish Binu Mathew](https://www.linkedin.com/in/persist/),
 
 📈 my github stats
 
-<img align='left' alt='My own shiny badge'  src="https://badge-counter-lqncte0ll-kernelguardian.vercel.app/api/badgecounter?user=j&text_color=%23FFFFFF&height=60"/>
+<img align='left' alt='My own shiny badge'  src="https://badge-counter.vercel.app/api/badgecounter?user=kernelguardian&height=60&text_color=%23FFFFFF"/>
