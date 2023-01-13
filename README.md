@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### hey there 
-
+### hey there
 
 <a href="https://twitter.com/kernelguardian">
   <img align="left" alt="Asish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -9,21 +8,18 @@
 <a href="https://www.linkedin.com/in/persist/">
   <img align="left" alt="Asish's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
 
-  
-
-
-<br />
+<br>
 
 hi, i'm [Asish Binu Mathew](https://www.linkedin.com/in/persist/),
 
-
 <!--  Image here -->
-  
+
 - 💼 any freelance work? do reach, [email](email here)
 <!-- - Contact here -->
 
-**languages and tools:**  
+**languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -45,19 +41,17 @@ hi, i'm [Asish Binu Mathew](https://www.linkedin.com/in/persist/),
 
 <!--END_SECTION:waka-->
 
-
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
+<!-- TODO-IST:START -->
+
+🏆 7,995 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 673 tasks so far  
+⏳ Longest streak is 10 days
+
+<!-- TODO-IST:END -->
 
 📈 my github stats
 
-
-
-
-
+<img align='left' alt='My own shiny badge'  src="https://badge-counter-lqncte0ll-kernelguardian.vercel.app/api/badgecounter?user=j&text_color=%23FFFFFF&height=60"/>
