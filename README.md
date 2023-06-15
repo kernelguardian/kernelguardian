@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### hey there
 
 <a href="https://twitter.com/kernelguardian">
   <img align="left" alt="Asish's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
