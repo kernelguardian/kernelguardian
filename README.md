@@ -11,6 +11,5 @@
 
 <br>
 
-hi, i'm [Asish Binu Mathew](https://www.linkedin.com/in/persist/),
 
 <img align='left' alt='My own shiny badge'  src="https://badge-counter.vercel.app/api/badgecounter?user=kernelguardian&height=60&text_color=%23FFFFFF"/>
