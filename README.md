@@ -1,10 +1,17 @@
 # Welcome to My Profile!
 
+<img align='left' alt='My profile picture'  src="https://media.licdn.com/dms/image/D4E03AQFqtm-isCkZZQ/profile-displayphoto-shrink_800_800/0/1682685813248?e=1697673600&v=beta&t=0rLzOKVtngsVw520lD48bRA9w8s4ipD8AA9NO9jamwg"/>
+
+
 Hey there! 👋 Thanks for stopping by and taking a moment to explore my journey and expertise.
 
 ## About Me
 
 I'm currently on an exciting adventure as a full-time Master's student, pursuing Advanced Computer Science with a specialization in Artificial Intelligence at the esteemed University of Strathclyde in Glasgow. With around 2 years of hands-on experience as a Product Engineer, I've been crafting tools that are an integral part of dynamic ecosystems.
+
+## Things I am working on
+1. instruct2action - A new paradigm for automation using AI
+2. CRDT based collaborative song database
 
 ## Embracing Versatility 🌐
 
