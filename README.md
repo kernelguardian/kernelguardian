@@ -1,4 +1,4 @@
-# Hey there! 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=48&pause=400&color=FFFFFF&background=FFFFFF00&width=437&height=85&lines=Hey+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Thanks for stopping by and taking a moment to explore my journey and expertise.
 
