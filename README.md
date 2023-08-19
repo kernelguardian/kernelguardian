@@ -1,9 +1,6 @@
-# Welcome to My Profile!
+# Hey there! 👋 
 
-<img align='left' alt='My profile picture'  src="https://media.licdn.com/dms/image/D4E03AQFqtm-isCkZZQ/profile-displayphoto-shrink_800_800/0/1682685813248?e=1697673600&v=beta&t=0rLzOKVtngsVw520lD48bRA9w8s4ipD8AA9NO9jamwg"/>
-
-
-Hey there! 👋 Thanks for stopping by and taking a moment to explore my journey and expertise.
+Thanks for stopping by and taking a moment to explore my journey and expertise.
 
 ## About Me
 
@@ -41,4 +38,4 @@ Also checkout the badge counter below that autoupdates on every page refresh �
 ---
 
 
-<img align='left' alt='My own shiny badge'  src="https://badge-counter.vercel.app/api/badgecounter?user=kernelguardian&height=60&text_color=%23FFFFFF"/>
+<img  alt='My own shiny badge'  src="https://badge-counter.vercel.app/api/badgecounter?user=kernelguardian&height=60&text_color=%23FFFFFF"/>
